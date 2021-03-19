@@ -3,6 +3,6 @@ $(document).ready(function() {
     mp4: 'video/video.mp4',
     webm: 'video/video.ogv',
     ogv: 'video/video.webm',
-    poster: 'img/cover-image.jpg'
+    //poster: 'img/cover-image.jpg'
   });
 });
