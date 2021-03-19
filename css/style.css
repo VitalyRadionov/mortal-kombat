@@ -118,6 +118,9 @@ a {
     padding-bottom: 350px;
     background-size: 300px;
   }
+  video {
+    display: none;
+  }
   .button {
     margin-bottom: 10px;
   }
